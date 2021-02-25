@@ -65,7 +65,9 @@
             this.eventOutput.Name = "eventOutput";
             this.eventOutput.Size = new System.Drawing.Size(255, 335);
             this.eventOutput.TabIndex = 1;
-            this.eventOutput.Text = resources.GetString("eventOutput.Text");
+            this.eventOutput.Text = "You are an infamous hitman and have been tasked to hunt down a target somewhere o" +
+    "ut here in the woods. Word has it he is never alone, so think twice about your d" +
+    "ecisions... Go North or South?";
             // 
             // questionOutput
             // 
