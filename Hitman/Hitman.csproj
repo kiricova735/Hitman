@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,90 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forest.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\campp.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camp.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\campp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footprints.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gunman front.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backdoor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man in hall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man on ground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyhole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sneaking out.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\standoff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you-win-lettering-pop-art-text-banner_185004-60.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peeking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thanks.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highway.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toyota.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bear trap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\238246__18hiltc__assualt-rifle-shooting6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\115295__warriorsfan12331__gun-shot2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\391539__mativve__electro-win-sound.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
