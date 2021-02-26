@@ -140,7 +140,7 @@
             this.eventpicOutput.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.eventpicOutput.Location = new System.Drawing.Point(597, 53);
             this.eventpicOutput.Name = "eventpicOutput";
-            this.eventpicOutput.Size = new System.Drawing.Size(351, 393);
+            this.eventpicOutput.Size = new System.Drawing.Size(351, 383);
             this.eventpicOutput.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.eventpicOutput.TabIndex = 11;
             this.eventpicOutput.TabStop = false;
@@ -160,6 +160,7 @@
             this.Controls.Add(this.redLabel);
             this.Controls.Add(this.eventOutput);
             this.Controls.Add(this.hitmanLabel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Hitman";
             this.Text = "Hitman";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);

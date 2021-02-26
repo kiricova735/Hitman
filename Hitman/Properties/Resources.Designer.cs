@@ -72,6 +72,33 @@ namespace Hitman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _144113__avakas__man_hit_by_car {
+            get {
+                return ResourceManager.GetStream("_144113__avakas__man_hit_by_car", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _198868__hitrison__door_thudwhamwhack {
+            get {
+                return ResourceManager.GetStream("_198868__hitrison__door_thudwhamwhack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _203039__jjhouse4__dropping_body_on_hard_ground {
+            get {
+                return ResourceManager.GetStream("_203039__jjhouse4__dropping_body_on_hard_ground", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
         internal static System.IO.UnmanagedMemoryStream _238246__18hiltc__assualt_rifle_shooting6 {
             get {
                 return ResourceManager.GetStream("_238246__18hiltc__assualt_rifle_shooting6", resourceCulture);
@@ -81,9 +108,45 @@ namespace Hitman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _278203__thepriest909__bear_trap {
+            get {
+                return ResourceManager.GetStream("_278203__thepriest909__bear_trap", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _346212__inspectorj__door_squeak_normal_d {
+            get {
+                return ResourceManager.GetStream("_346212__inspectorj__door_squeak_normal_d", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
         internal static System.IO.UnmanagedMemoryStream _391539__mativve__electro_win_sound {
             get {
                 return ResourceManager.GetStream("_391539__mativve__electro_win_sound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _414335__mativve__walking_5 {
+            get {
+                return ResourceManager.GetStream("_414335__mativve__walking_5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _56901__syna_max__wilhelm_scream_outtake {
+            get {
+                return ResourceManager.GetStream("_56901__syna_max__wilhelm_scream_outtake", resourceCulture);
             }
         }
         

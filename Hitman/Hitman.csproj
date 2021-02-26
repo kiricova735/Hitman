@@ -164,5 +164,41 @@
   <ItemGroup>
     <None Include="Resources\391539__mativve__electro-win-sound.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\160213__qubodup__kicking-forcing-breaking-wooden-door %281%29.flac" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\160213__qubodup__kicking-forcing-breaking-wooden-door.flac" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\144113__avakas__man-hit-by-car.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\346212__inspectorj__door-squeak-normal-d.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\239900__thesubber13__scream-1.ogg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56901__syna-max__wilhelm-scream-outtake.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\278203__thepriest909__bear-trap.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\414335__mativve__walking-5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\502553__kneeling__goblin-fall.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\203039__jjhouse4__dropping-body-on-hard-ground.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\550715__entagon__door-kicked.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\198868__hitrison__door-thudwhamwhack.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
